@@ -1,0 +1,9 @@
+1. Asymptotic analysis 
+2. Recurrence relations -- substitution, tree, master theorem
+3. Divide and conquer -- merge sort, quicksort, quickselect, counting inversions, polynomial multiplication using fft, binary search
+4. Dynamic Programming -- assembly line, chain matrix multiplication, longest common subsequence, optimal BST, 0/1 knapsack, climbing stairs, coin change
+5. Greedy -- interval scheduling, interval partitioning, minimize lateness, optimal offline caching
+6. Graphs -- bfs, dfs, prim's (mst), kruskal's (mst), dijkstra's, bellman-ford, floyd-warshall, topological sort, scc
+7. Flow networks ppt
+
+Non-recursive and recursive bs and circular combination is not there.
